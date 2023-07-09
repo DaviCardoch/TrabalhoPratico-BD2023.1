@@ -116,3 +116,120 @@
 1688869971 source:c:\users\daviv\onedrive\Área de trabalho\aaaaaa\projetobd\cntraptavaliacao.cpp
 	"cntrAPTavaliacao.h"
 
+1688866350 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\acessodb.cpp
+	"acessoDB.h"
+
+1688749023 c:\projetobd\trabalhopratico-bd2023.1\projetobd\acessodb.h
+	"entidades.h"
+	<list>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1688750069 c:\projetobd\trabalhopratico-bd2023.1\projetobd\entidades.h
+	<string>
+
+1688750272 c:\projetobd\trabalhopratico-bd2023.1\projetobd\sqlite3.h
+	<stdarg.h>
+
+1688865017 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptautenticacao.cpp
+	"cntrAPTautenticacao.h"
+
+1688749162 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptautenticacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"entidades.h"
+	"interfaces.h"
+
+1688751158 c:\projetobd\trabalhopratico-bd2023.1\projetobd\interfaces.h
+	<list>
+	"acessoDB.h"
+	"entidades.h"
+
+1688869971 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptavaliacao.cpp
+	"cntrAPTavaliacao.h"
+
+1688751158 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptavaliacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	<algorithm>
+	<list>
+	<iterator>
+	"entidades.h"
+	"interfaces.h"
+
+1688864756 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptcontrole.cpp
+	"cntrAPTcontrole.h"
+
+1688864756 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptcontrole.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"entidades.h"
+	"interfaces.h"
+
+1688925855 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptestudante.cpp
+	"cntrAPTestudante.h"
+
+1688749484 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntraptestudante.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"entidades.h"
+	"interfaces.h"
+
+1688749438 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcautenticacao.cpp
+	"cntrSVCautenticacao.h"
+
+1688749473 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcautenticacao.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	"entidades.h"
+	"interfaces.h"
+	"acessoDB.h"
+
+1688749688 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcavaliacao.cpp
+	"cntrSVCavaliacao.h"
+
+1688749722 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcavaliacao.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<list>
+	"entidades.h"
+	"interfaces.h"
+	"acessoDB.h"
+
+1688749937 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcestudante.cpp
+	"cntrSVCestudante.h"
+
+1688750002 c:\projetobd\trabalhopratico-bd2023.1\projetobd\cntrsvcestudante.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<list>
+	"entidades.h"
+	"interfaces.h"
+	"acessoDB.h"
+
+1688748390 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\entidades.cpp
+
+1688750162 source:c:\projetobd\trabalhopratico-bd2023.1\projetobd\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+	"interfaces.h"
+	"cntrAPTcontrole.h"
+	"cntrAPTautenticacao.h"
+	"cntrAPTestudante.h"
+	"cntrAPTavaliacao.h"
+	"cntrSVCautenticacao.h"
+	"cntrSVCestudante.h"
+	"cntrSVCavaliacao.h"
+
